@@ -3,17 +3,15 @@
 ![screenshot](https://github.com/gnyokota/ts-shopCart/blob/ffdbd65f77401ca40a237b28a71fe729b0b164f0/src/img/screen.JPG)
 ![screenshot](https://github.com/gnyokota/ts-shopCart/blob/ffdbd65f77401ca40a237b28a71fe729b0b164f0/src/img/screen1.JPG)
 
-## Available Scripts
+## Data from: 
 
-In the project directory, you can run:
+Fake Store API
 
-### `npm start`
+## Based on the tutorial: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+React State Management using Redux (Build a shopping Cart)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
 
 ### `npm test`
 
